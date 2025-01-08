@@ -1,9 +1,5 @@
 # TypeScript e-commerce store
 
-### Or Go to the live site and try it for yourself [here](https://cute-buddy.netlify.app/)
-
-## What is this project about?
-
 - This is an e-commerce app that allows shoppers to view, sort, and filter products according to different criteria. After products are added to the shopping cart, payment is processed with Stripe API.
 - This serves as a TypeScript, Sanity CMS, GraphQL, and Stripe API learning project. I took the skeleton of [this Udemy course project](https://react-course-comfy-sloth-store.netlify.app/). The differences between the original one and my version are:
   - replaced the JavaScript code with TypeScript.
